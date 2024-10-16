@@ -5,7 +5,13 @@ The main objective is to identify trends, optimize product offerings, and unders
 Key performance indicators (KPIs) and visualizations, including bar charts, line charts, and pie charts, are created to provide a comprehensive overview of the coffee shop's operational performance.
 
 The dataset contains the following attributes:
-** Dataset Overview**
+
+
+
+
+ Dataset Overview
+
+ 
  transaction_id: Unique identifier for each transaction
  transaction_date: Date of the transaction
  transaction_time: Time of the transaction
