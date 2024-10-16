@@ -13,10 +13,15 @@ The dataset contains the following attributes:
 
  
  transaction_id: Unique identifier for each transaction
+ 
  transaction_date: Date of the transaction
+ 
  transaction_time: Time of the transaction
+ 
  store_id: Identifier for the store location
+ 
  store_location: The location of the store
+ 
  product_id: Unique identifier for each product
  transaction_qty: Quantity of product sold in each
  transaction
